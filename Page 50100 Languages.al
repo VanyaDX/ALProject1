@@ -1,7 +1,7 @@
-page 50100 "Languages List"
+page 50100 "Al Supported Languages List"
 {
     PageType = Card;
-    SourceTable = "Languages";
+    SourceTable = "Al Supported Languages";
     Editable = false;
 
     layout
@@ -26,7 +26,7 @@ page 50100 "Languages List"
     {
         area(processing)
         {
-
+            
         }
     }
 

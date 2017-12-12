@@ -1,4 +1,4 @@
-table 50100 "Languages"
+table 50100 "Al Supported Languages"
 {
 
     fields
