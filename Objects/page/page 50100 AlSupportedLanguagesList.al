@@ -26,7 +26,17 @@ page 50100 "Al Supported Languages List"
     {
         area(processing)
         {
-            
+            action(SupportedLang)
+            {
+                CaptionML = ENU = 'Supported languages list';
+                ToolTipML = ENU = 'probably somth view???';
+                ApplicationArea = All;
+                
+                trigger OnAction();
+                begin
+                    Message('TODO');
+                end;
+            }            
         }
     }
 

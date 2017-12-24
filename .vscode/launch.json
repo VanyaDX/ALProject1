@@ -1,16 +1,15 @@
 {
     "version": "0.2.0",
-    "configurations": [
-        
+    "configurations": [        
         {
             "type": "al",
             "request": "launch",
             "name": "Your own server",
-            "server": "https://vmforvscode.westeurope.cloudapp.azure.com",
+            "server": "https://testvmforhw.westeurope.cloudapp.azure.com",
             "serverInstance": "NAV",
             "tenant": "",
             "authentication": "UserPassword",
-            "startupObjectId": 50100
+            "startupObjectId": 112
         }
     ]
 }
